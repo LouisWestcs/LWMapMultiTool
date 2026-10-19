@@ -1,0 +1,12 @@
+# Exe-only repo: binaries go on the GitHub Releases page, never in git. Source code stays out of this repo.
+*.exe
+*.zip
+*.py
+*.pyw
+*.ps1
+*.bat
+__pycache__/
+_build/
+_backup/
+Thumbs.db
+desktop.ini

@@ -1,0 +1,79 @@
+LW MAP MULTI TOOL - FREEWARE LICENCE
+Version 1.0, 19 October 2026
+
+Copyright (c) 2026 LW. All rights reserved.
+
+"The Software" means LW Map Multi Tool (formerly GalloDevelopment Tool), its executable files, documentation and any
+other files distributed with it by the author. "Output" means the files you make with the Software (meshes, prefabs,
+satmaps, terrains, worlds, import kits and similar).
+
+By downloading, installing or using the Software you agree to this licence. If you do not agree, do not use it.
+
+1. WHAT YOU MAY DO
+   Unless section 4 applies to you, you may:
+   a. Download, install and use the Software free of charge, for personal or commercial projects.
+   b. Use, modify, publish and share your Output freely, including in free or paid mods, servers and maps, provided
+      you follow section 3 (credit).
+
+2. WHAT YOU MAY NOT DO
+   a. Sell, rent, lease or sublicense the Software, or charge any fee for access to it (including putting it behind a
+      paywall, a subscription, a Patreon tier or a paid bundle).
+   b. Re-upload, mirror or otherwise redistribute the Software. The only official download is the Releases page of the
+      author's GitHub repository; link to that page instead.
+   c. Claim the Software, or any part of it, as your own work, or remove or change its name, copyright notices,
+      credits or this licence.
+   d. Modify, decompile, disassemble, unpack or reverse-engineer the Software, or make derivative works of it, except
+      where applicable law expressly allows this despite this restriction.
+
+3. CREDIT
+   When you publish Output (for example in a Workshop mod, a map or a server), credit the Software in the description
+   or credits, for example:
+
+       Made with LW Map Multi Tool by LW - https://github.com/<owner>/LWMapMultiTool
+
+4. EXCLUDED PARTIES - NO LICENCE
+   No licence of any kind is granted under this document to the following ("Excluded Parties"):
+   a. Narcos Roleplay (also "Narcos RP"), under any name, and any community, server, group or project operating as
+      or on behalf of it, or as its successor or rebrand;
+   b. the person who controls the Discord account with user ID 527293059008823307 (the "Excluded Person");
+   c. any server, community, group or project that is owned, co-owned, operated or funded by the Excluded Person, or
+      on which the Excluded Person holds any staff, administrator, moderator, developer or management role.
+   Excluded Parties may not download, install or use the Software, and may not use, publish or host Output made with
+   it. Nobody may use the Software, or make Output with it, on behalf of or for the benefit of an Excluded Party.
+   Any use by or for an Excluded Party is unlicensed and infringes the author's copyright. The author may grant a
+   written exception at their sole discretion.
+
+5. YOUR SOURCE DATA
+   The Software reads terrains, maps and game files you point it at. You are responsible for having the right to use
+   that data and for following the licences and terms of its owners (including Bohemia Interactive's terms for Arma
+   Reforger and Arma 3 content, and the licences of any third-party maps or mods). This licence gives you no rights
+   to anyone else's content.
+
+6. THIRD-PARTY COMPONENTS
+   The Software includes third-party components (such as Python, NumPy, Pillow and sv-ttk) that are licensed under
+   their own terms, listed in THIRD-PARTY-NOTICES.txt. Nothing in this licence limits your rights under those terms
+   for those components.
+
+7. NOT AFFILIATED
+   The Software is an unofficial community tool. It is not made, endorsed or supported by Bohemia Interactive.
+   "Arma", "Arma Reforger" and "Enfusion" are trademarks of their respective owners.
+
+8. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+   THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. BACK UP YOUR PROJECTS
+   BEFORE USE.
+
+9. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+   SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+10. TERMINATION
+   This licence ends automatically if you break any of its terms. You must then stop using the Software and delete
+   your copies. Output you made and published before that point while following this licence may stay published.
+
+11. CHANGES
+   The author may publish new versions of this licence. Each release of the Software is covered by the licence
+   version included with it.
+
+All rights not expressly granted in this licence are reserved by the author.
