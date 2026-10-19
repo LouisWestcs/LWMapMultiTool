@@ -33,16 +33,12 @@ Settings and caches: `%LOCALAPPDATA%\FakeTerrainMaker`. Default output: `Documen
 
 Free to use, closed source. In short (the full terms are in [LICENSE.txt](LICENSE.txt)):
 
-- Free for personal and commercial projects, and what you make with it is yours to use, change and publish.
+- Free to use for personal and commercial projects, and you can publish what you make with it.
 - **Credit required** when you publish something made with it: `Made with LW Map Multi Tool by LW`.
 - **No selling** the tool, no paywalls, **no re-uploading**, and no claiming it as your own.
-- No decompiling or modifying the exe.
+- **No modifying** the tool, and no decompiling or unpacking the exe.
 - **Not licensed** to Narcos Roleplay or to any server owned or staffed by Discord user ID `527293059008823307`
   (see section 4 of the licence).
 
 You need the rights to whatever maps you load into it. This is an unofficial tool, not affiliated with Bohemia
 Interactive. Third-party components: [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt).
-
-## Credits
-
-Music: "Dreamscape" by 009 Sound System.

@@ -12,8 +12,10 @@ By downloading, installing or using the Software you agree to this licence. If y
 1. WHAT YOU MAY DO
    Unless section 4 applies to you, you may:
    a. Download, install and use the Software free of charge, for personal or commercial projects.
-   b. Use, modify, publish and share your Output freely, including in free or paid mods, servers and maps, provided
-      you follow section 3 (credit).
+   b. Use and publish your Output, including in free or paid mods, servers and maps, provided you follow section 3
+      (credit).
+   This licence is a right to use the Software only. It gives no right to modify the Software or make derivative
+   works of it (see section 2d).
 
 2. WHAT YOU MAY NOT DO
    a. Sell, rent, lease or sublicense the Software, or charge any fee for access to it (including putting it behind a
