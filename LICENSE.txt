@@ -52,8 +52,8 @@ By downloading, installing or using the Software you agree to this licence. If y
    to anyone else's content.
 
 6. THIRD-PARTY COMPONENTS
-   The Software includes third-party components (such as Python, NumPy, Pillow and sv-ttk) that are licensed under
-   their own terms, listed in THIRD-PARTY-NOTICES.txt. Nothing in this licence limits your rights under those terms
+   The Software includes third-party components (such as Python, NumPy, Pillow, pywebview and the Inter typeface)
+   that are licensed under their own terms, listed in THIRD-PARTY-NOTICES.txt. Nothing in this licence limits your rights under those terms
    for those components.
 
 7. NOT AFFILIATED

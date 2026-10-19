@@ -5,6 +5,12 @@
 *.pyw
 *.ps1
 *.bat
+# v3 page source (HTML / CSS / JS / fonts) is packed into the exe - never commit it
+*.html
+*.css
+*.js
+*.woff2
+ui/
 __pycache__/
 _build/
 _backup/
