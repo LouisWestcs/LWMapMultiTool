@@ -78,4 +78,12 @@ By downloading, installing or using the Software you agree to this licence. If y
    The author may publish new versions of this licence. Each release of the Software is covered by the licence
    version included with it.
 
+12. AUTOMATIC UPDATES
+   Each time the Software starts, it contacts the author's GitHub repository to check for a newer version. When one
+   is available, it is downloaded and installed automatically and the Software restarts. Automatic updates cannot be
+   turned off. Only updates signed by the author are installed. The check sends nothing about you or your projects;
+   like any connection to GitHub, it reveals your IP address to GitHub, which handles it under its own privacy terms.
+   If GitHub cannot be reached, the installed version keeps running. An update may come with a new version of this
+   licence (section 11); by using the Software after an update you accept that version.
+
 All rights not expressly granted in this licence are reserved by the author.

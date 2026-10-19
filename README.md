@@ -35,6 +35,13 @@ Windows may show "Windows protected your PC" because the exe is not signed: clic
 
 Settings and caches: `%LOCALAPPDATA%\FakeTerrainMaker`. Default output: `Documents\LW Map Multi Tool`.
 
+## Updates
+
+The tool keeps itself up to date. Every time it starts, it checks this repository; if there is a newer release, it
+downloads and installs it automatically and restarts. This can't be turned off. Updates are signed, so only releases
+from the author are ever installed. Without an internet connection, the tool simply runs the version you have.
+The check only contacts GitHub, and nothing about you or your projects is sent (see section 12 of the licence).
+
 ## Licence
 
 Free to use, closed source. In short (the full terms are in [LICENSE.txt](LICENSE.txt)):
