@@ -1,0 +1,9 @@
+{
+ "edition": "public",
+ "build": 202610191907,
+ "version": "3.0-silverlake",
+ "size": 24161792,
+ "sha256": "7bf9e162b3e095fd092009d91d7e726f44ef4e1e793b453bbe6ef471f60fa406",
+ "url": "https://github.com/LouisWestcs/LWMapMultiTool/releases/download/PublicV1/LWMapMultiTool.exe",
+ "sig": "6b7e726be0cac99f010d513f6fc0150f3008ca0211012b3ed90301419559058d50ce142e9bd27bcfe85e9fd87aefafc3d5154a6e3c08b87b31d8d747ec57a904"
+}
