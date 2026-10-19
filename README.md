@@ -44,14 +44,7 @@ The check only contacts GitHub, and nothing about you or your projects is sent (
 
 ## Licence
 
-Free to use, closed source. In short (the full terms are in [LICENSE.txt](LICENSE.txt)):
-
-- Free to use for personal and commercial projects, and you can publish what you make with it.
-- **Credit required** when you publish something made with it: `Made with LW Map Multi Tool by LW`.
-- **No selling** the tool, no paywalls, **no re-uploading**, and no claiming it as your own.
-- **No modifying** the tool, and no decompiling or unpacking the exe.
-- **Not licensed** to Narcos Roleplay or to any server owned or staffed by Discord user ID `527293059008823307`
-  (see section 4 of the licence).
+Free to use, credit required, closed source. In short (the full terms are in [LICENSE.txt](LICENSE.txt)):
 
 You need the rights to whatever maps you load into it. This is an unofficial tool, not affiliated with Bohemia
 Interactive. Third-party components: [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt).
